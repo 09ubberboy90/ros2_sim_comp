@@ -1,0 +1,15 @@
+[submodule "simple_pybullet_ros2"]
+	path = simple_pybullet_ros2
+	url = https://github.com/09ubberboy90/simple_pybullet_ros2.git
+[submodule "simple_webot_ros2"]
+	path = simple_webot_ros2
+	url = https://github.com/09ubberboy90/simple_webot_ros2.git
+[submodule "simple_vrep_ros2"]
+	path = simple_vrep_ros2
+	url = https://github.com/09ubberboy90/simple_vrep_ros2.git
+[submodule "simple_ignition_ros2"]
+	path = simple_ignition_ros2
+	url = https://github.com/09ubberboy90/simple_ignition_ros2.git
+[submodule "simple_isaac_ros2"]
+	path = simple_isaac_ros2
+	url = https://github.com/09ubberboy90/simple_isaac_ros2.git
